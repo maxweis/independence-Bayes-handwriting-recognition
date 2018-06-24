@@ -1,0 +1,6 @@
+[package]
+name = "independence-bayes-handwriting-recognition"
+version = "0.1.0"
+authors = ["Max Weis <maxrobweis@gmail.com>"]
+
+[dependencies]
